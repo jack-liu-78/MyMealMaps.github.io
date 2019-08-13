@@ -21,7 +21,7 @@ var vegetables = {
    'Kale': ['125mL', 69.0, 19.0, 16.0, 1.0, 1.0, 4.0, './img/Kale.jpg'],
    'Leek': ['125mL', 55.0, 17.0, 5.0, 0.01, 0.0, 4.0, './img/Leek.jpg'],
    'Iceberg lettuce': ['250mL', 58.0, 8.0, 6.0, 1.0, 1.0, 2.0, './img/Iceberg.jpg'],
-   'Romain lettuce': ['250mL', 59.0, 10.0, 5.0, 1.0, 1.0, 2.0, './img/Romain.jpg'],
+   'Romaine lettuce': ['250mL', 59.0, 10.0, 5.0, 1.0, 1.0, 2.0, './img/Romaine.jpg'],
    'Mushrooms': ['3 medium', 54.0, 12.0, 2.0, 2.0, 1.0, 2.0, './img/Mushrooms.jpg'],
    'Green onions': ['1 medium', 15.0, 5.0, 2.0, 0.01, 0.01, 1.0, './img/Greenonions.jpg'],
    'Green peas': ['125mL', 85.0, 66.0, 61.0, 4.0, 4.0, 12.0, './img/Greenpeas.jpg'],
